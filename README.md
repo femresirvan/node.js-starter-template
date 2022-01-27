@@ -98,6 +98,4 @@ GOOGLE_SECRET=""
 
 ### 🤝 Contributes
 
-> 😊 Give me any advice by sending email!
->
-> ![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+> 😊 Give me any advice by sending [email](femresirvan@gmail.com)!
