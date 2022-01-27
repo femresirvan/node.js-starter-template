@@ -1,5 +1,12 @@
 # node.js-starter-template
-This page is still under development.
+
+![](https://img.shields.io/badge/Under%20Development!-red.svg)
+![](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Express.js-404D59)
+![](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![](https://img.shields.io/github/license/femresirvan/node.js-starter-template)
 
 <!--
 
@@ -10,43 +17,44 @@ This page is still under development.
  * [Prerequisite](Prerequisite)
  * [Installation](Installation)
  * [Features](Features)
-    * [Some Extra Ideas](Someextraideas) 
+    * [Some Extra Ideas](Someextraideas)
  * [Technologies](Technologies)
 -->
 
-## Introduction
+## 🎀 Introduction
+
+_!Under Development!_
 
 Very simple node.js starter template powered by MVC design.
 
-## Roadmap
+## 🛣️ Roadmap
 
-- [X] Install dependencies, configure `--eslint.js` etc.
-- [X] Complete `--express.js` configurations.
+- [x] Install dependencies, configure `--eslint.js` etc.
+- [x] Complete `--express.js` configurations.
 - [ ] Complete `--mongoose.js` configurations.
 - [ ] Complete `--passport.js` configurations.
 - [ ] Extend with swagger.
 - [ ] And many more..
 
-## Project Structure
+## 🏢 Project Structure
 
 ![](https://user-images.githubusercontent.com/60824063/151278303-31cd8529-cfb5-4532-97f9-901de5fd98b8.png)
 
-### Dependencies
+## Dependencies
 
 - Helmet (Security Middleware)
 - Swagger (API Documentation)
-- Express.js (a back end web application framework for Node.js)  
+- Express.js (a back end web application framework for Node.js)
 - Mongoose (creates a connection between MongoDB and Node.js)
 - dotenv (to integrate .env files)
 - HTTP
 - Chalk (String coloring for console)
-- ESLint 
+- ESLint
 - Prettier
 - Morgan (Logger for requests)
 - Passport.js (for Authentication&Authorization)
 - Passport local
 - Passport Google Oauth
-
 
 <!--
 
@@ -63,7 +71,7 @@ Very simple node.js starter template powered by MVC design.
 ## Prerequisite
 
 - [Node.js & NPM](https://nodejs.org/en/download/)
-- [Google OAuth API Key](https://developers.google.com/identity/protocols/oauth2) 
+- [Google OAuth API Key](https://developers.google.com/identity/protocols/oauth2)
 - [MongoDB](https://www.mongodb.com/)
 
 ### 👨‍💻 Installation
@@ -89,12 +97,8 @@ GOOGLE_SECRET=""
 ```
 -->
 
-License
+### 🤝 Contributes
 
-![](https://img.shields.io/github/license/femresirvan/node.js-starter-template)
-
-### Contributes
-
-> 🤝 Give me any advice by sending email! 
-> 
+> 😊 Give me any advice by sending email!
+>
 > ![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
