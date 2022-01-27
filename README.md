@@ -15,11 +15,15 @@ _Be aware of that is incomplete documentation!_
 ### Table of Contents
 
 - [Introduction](#-introduction)
-- [Features](#-Features)
-- [Roadmap](#-Roadmap)
-- [Project Structure](#-Project%20Structure)
-- [Dependencies](#-Dependencies)
-- [Contributes&Donates](#-Contributes&Donates)
+- [Features](#features)
+- [Roadmap](#%EF%B8%8F-roadmap)
+- [Project Structure](#-project-structure)
+- [Dependencies](#dependencies)
+- [Installation](#prerequisite)
+  - [Prerequisite](#prerequisite)
+  - [Installation](#-installation)
+- [MongoDB & Mongoose Notes](#%EF%B8%8F-mongodbmongoose-notes)
+- [Contributes & Donates](#-contributesdonates)
 
 ### 🎀 Introduction
 
@@ -36,8 +40,10 @@ Brief Node.js starter kit powered by MVC design.
 - [x] Install dependencies, configure `--eslint.js` etc.
 - [x] Complete `--express.js` configurations.
 - [ ] Complete `--mongoose.js` configurations.
-- [ ] Complete `--passport.js` configurations.
+- [ ] Make email auth and user schemas with `--passport-jwt` `--passport-local`.
+- [ ] Make google auth with `--passport-google-oauth2`
 - [ ] Extend with swagger.
+- [ ] Implement test environment.
 - [ ] And many more..
 
 ### 🏢 Project Structure
@@ -53,7 +59,7 @@ Brief Node.js starter kit powered by MVC design.
 - dotenv (to integrate .env files)
 - HTTP
 - Chalk (String coloring for console)
-- ESLint
+- ESLint with Airbnb style
 - Prettier
 - Morgan (Logger for requests)
 - Passport.js (for Authentication&Authorization)
