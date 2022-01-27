@@ -21,7 +21,7 @@
     "eslint": "^8.7.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-node": "^4.1.0",
+    "eslint-config-node": "^2.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jsx-a11y": "^6.5.1",
@@ -30,7 +30,7 @@
     "prettier": "^2.5.1"
   },
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^2.4.1",
     "cors": "^2.8.5",
     "dotenv": "^14.3.2",
     "ejs": "^3.1.6",
