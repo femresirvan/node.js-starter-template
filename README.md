@@ -14,7 +14,7 @@ _Be aware of that is incomplete documentation!_
 
 ### Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction](#-introduction)
 - [Features](Features)
 - [Roadmap](Roadmap)
 - [Project Structure](Project%20Structure)
