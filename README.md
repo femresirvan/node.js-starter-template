@@ -27,6 +27,12 @@ _!Under Development!_
 
 Very simple node.js starter template powered by MVC design.
 
+## Features
+
+- ...
+- ..
+- ..
+
 ## 🛣️ Roadmap
 
 - [x] Install dependencies, configure `--eslint.js` etc.
@@ -57,13 +63,6 @@ Very simple node.js starter template powered by MVC design.
 - Passport Google Oauth
 
 <!--
-
-## Features
-
-- User system.
-- Chat system with websocket.
-- Google Auth and cookie based authentication in the same app.
-- Responsive design with that you can easily use on any device.
 
 ### 👀 Review
 
