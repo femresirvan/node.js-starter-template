@@ -136,6 +136,10 @@ MongoDB has very flexible structure so database models can be updated during the
 
 [Mongoose Documentation](https://mongoosejs.com/docs/)
 
+### Other Documentations
+
+[JS Book](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+
 ### 🤝 Contributes&Donates
 
 > 😊 Give me any advice by sending email!
