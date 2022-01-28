@@ -39,6 +39,7 @@ Brief Node.js starter kit powered by MVC design.
 
 - [x] Install dependencies, configure `--eslint.js` etc.
 - [x] Complete `--express.js` configurations.
+- [x] Install `--swagger-ui-express`.
 - [ ] Complete `--mongoose.js` configurations.
 - [ ] Make email auth and user schemas with `--passport-jwt` `--passport-local`.
 - [ ] Make google auth with `--passport-google-oauth2`
@@ -47,6 +48,8 @@ Brief Node.js starter kit powered by MVC design.
 - [ ] And many more..
 
 ### 🏢 Project Structure
+
+This will be replace.
 
 ![](https://user-images.githubusercontent.com/60824063/151278303-31cd8529-cfb5-4532-97f9-901de5fd98b8.png)
 
