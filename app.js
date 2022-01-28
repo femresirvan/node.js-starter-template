@@ -1,6 +1,5 @@
 const path = require('path');
 const cors = require('cors');
-const mongoose = require('mongoose');
 const http = require('http');
 const express = require('express');
 const logger = require('morgan');
@@ -58,7 +57,7 @@ if (process.env.NODE_ENV === 'dev') {
   app.use((err, req, res) => {
     // console.log(req);
     res.status(err.status || 500).json({
-      msg: err.msg || 'Beklenmedik bir hatayla karşılaşıldı.',
+      msg: err.msg || 'Unexpected err',
       success: false,
       status: err.status || 500,
     });
