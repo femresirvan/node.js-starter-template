@@ -6,12 +6,15 @@ const logger = require('morgan');
 const chalk = require('chalk');
 const dotenv = require('dotenv');
 const helmet = require('helmet');
+const swaggerUi = require('swagger-ui-express');
+const YAML = require('yamljs');
+
+const swaggerDocument = YAML.load('./swagger.yaml');
 const router = require('./routers/router');
 
 /**
  * Load environment variables from .env file, where API keys and passwords are configured.
  */
-
 dotenv.config({
   path: '.env',
 });
@@ -19,15 +22,18 @@ dotenv.config({
 /**
  * Mongoose Database Connection
  */
-
 require('./configs/db_conn');
 
 /**
  * Create Express server.
  */
-
 const app = express();
 app.use(cors());
+
+/**
+ * Swagger conf.
+ */
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 /**
  * Express configuration.
@@ -47,7 +53,6 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 // #endregion
-
 app.use('/', router);
 
 /**

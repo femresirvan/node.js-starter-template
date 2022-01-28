@@ -38,6 +38,8 @@
     "helmet": "^5.0.2",
     "http": "^0.0.1-security",
     "mongoose": "^6.1.8",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "swagger-ui-express": "^4.3.0",
+    "yamljs": "^0.3.0"
   }
 }
