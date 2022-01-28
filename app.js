@@ -18,6 +18,12 @@ dotenv.config({
 });
 
 /**
+ * Mongoose Database Connection
+ */
+
+require('./configs/db_conn');
+
+/**
  * Create Express server.
  */
 
