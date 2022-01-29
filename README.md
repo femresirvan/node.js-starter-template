@@ -114,6 +114,11 @@ MongoDB has very flexible structure so database models can be updated during the
 - Choose a specific design pattern to create database.
 - Keep update the database schemas on issues while developing.
 
+#### What to do to optimize MongoDB performance?
+
+- Create spesific indexes
+- Use complex aggregations
+
 #### Most common design patterns used in Mongodb
 
 - Approximation
