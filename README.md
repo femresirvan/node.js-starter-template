@@ -27,7 +27,7 @@ _Be aware of that is incomplete documentation!_
 
 ### 🎀 Introduction
 
-Brief Node.js starter kit powered by MVC design.
+Comprehensive Node.js starter kit powered by MVC design and bunch of notes!
 
 ### Features
 
