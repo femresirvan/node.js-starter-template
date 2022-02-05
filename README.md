@@ -144,6 +144,8 @@ MongoDB has very flexible structure so database models can be updated during the
 
 [Mongoose Documentation](https://mongoosejs.com/docs/)
 
+[Mongodb Aggregation Framework Book](https://www.practical-mongodb-aggregations.com/guides/composibility.html)
+
 ### Other Documentations
 
 [JS Book](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
